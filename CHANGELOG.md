@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/googleapis/nodejs-retail/compare/v2.0.0...v2.1.0) (2022-07-04)
+
+
+### Features
+
+* support regapic LRO ([c074f6c](https://github.com/googleapis/nodejs-retail/commit/c074f6c8125d16e375c6c0bc8bae6b2e84ed56f9))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @google-cloud/storage to v6 ([#185](https://github.com/googleapis/nodejs-retail/issues/185)) ([d0e7c2f](https://github.com/googleapis/nodejs-retail/commit/d0e7c2fdd9306c8b162a4b1bd676937f60bcd1cb))
+
 ## [2.0.0](https://github.com/googleapis/nodejs-retail/compare/v1.8.1...v2.0.0) (2022-06-20)
 
 
